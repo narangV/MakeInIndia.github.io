@@ -1,0 +1,120 @@
+body,html {
+    height: 100%;
+}
+
+/*Introduction*/
+.parallax1 {
+    /*Image used*/
+    background-image: url("makeinindia.png");
+
+    /*Creating the parallax scroll effect*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /*Height*/
+    height: 100%;
+}
+
+.intro {
+    height: fit-content;
+    background-color: lightslategray;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 35px;
+}
+
+/*Objective*/
+.parallax2 {
+    background-image: url("objective.jpg");
+
+    /*Creating parallax effect*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(3px);
+    
+    /*Height*/
+    height: 70%;
+}
+
+.objective {
+    height: fit-content;
+    padding: 35px;
+    color: white;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    
+}
+.objective h3 {
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+/*Improvement*/
+.parallax3 {
+    background-image: url("improvement.jpg");
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: blur(3px);
+    background-size: cover;
+
+    height: 100%;
+}
+.improvement {
+    font-size: 20px;
+    color: white;
+    background-color: #b1a7a6;
+    height: fit-content;
+    padding: 35px;
+    font-size: 20px;
+}
+
+.improvement h3{
+    text-align: center;
+    color: #011627;
+    padding-bottom: 10px;
+}
+
+.outer {
+    list-style-type: square;
+}
+
+.inner {
+    list-style-type: disc;
+}
+
+/*sectors*/
+.parallax4 {
+    background-image: url("Gear.jpg");
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(5px);
+
+    height: 100%;
+}
+
+.sectors {
+    background-color: #2b2d42;
+    font-size: 20px;
+    color: white;
+    height: fit-content;
+    padding: 35px;
+
+}
+
+.sectors h3{
+    text-align: center;
+    color: blanchedalmond;
+    padding-bottom: 10px;
+}
