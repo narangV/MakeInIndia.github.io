@@ -118,13 +118,3 @@ body,html {
     color: blanchedalmond;
     padding-bottom: 10px;
 }
-
-/*Turning off parallax effects for mobile and tablets
-
-@media only screen and (max-device-width: 1336px) {
-    .parallax1,.parallax2,.parallax3,.parallax4 {
-        background-attachment: scroll;
-    }
-}
-
-*/
