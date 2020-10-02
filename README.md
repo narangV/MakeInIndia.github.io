@@ -1,5 +1,5 @@
 # MakeInIndia.github.io
-Make In India entire project
+Make In India-entire project.
 I have made use of simple tools and parallax scrolling effect.
 Tool used :
 1. VS CODE, to write the code
