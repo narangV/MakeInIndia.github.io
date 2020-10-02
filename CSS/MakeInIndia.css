@@ -5,7 +5,7 @@ body,html {
 /*Introduction*/
 .parallax1 {
     /*Image used*/
-    background-image: url("makeinindia.png");
+    background-image: url("../Images/makeinindia.png");
 
     /*Creating the parallax scroll effect*/
     background-attachment: fixed;
@@ -28,7 +28,7 @@ body,html {
 
 /*Objective*/
 .parallax2 {
-    background-image: url("objective.jpg");
+    background-image: url("../Images/objective.jpg");
 
     /*Creating parallax effect*/
     background-attachment: fixed;
@@ -58,7 +58,7 @@ body,html {
 
 /*Improvement*/
 .parallax3 {
-    background-image: url("improvement.jpg");
+    background-image: url("../Images/improvement.jpg");
 
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -93,7 +93,7 @@ body,html {
 
 /*sectors*/
 .parallax4 {
-    background-image: url("Gear.jpg");
+    background-image: url("../Images/Gear.jpg");
 
     background-attachment: fixed;
     background-position: center;
